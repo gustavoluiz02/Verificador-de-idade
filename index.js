@@ -16,6 +16,7 @@ function verificar() {
                 //crianca
                 foto.innerHTML = ` <img src="./imgs/criancaMenino.jpg" alt="">`
                 
+                
             } else if (idade > 10 && idade < 21){
                 //jovem
                 foto.innerHTML = ` <img src="./imgs/jovemHomem.jpg" alt="">`
